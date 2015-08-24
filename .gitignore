@@ -1,0 +1,81 @@
+# filename without suffix
+/bdsup2sub++
+/src/bdsup2sub++
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.so.*
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Backup files
+*~
+*.bak
+*.old
+
+# Kate swap files
+.*.kate-swp
+.swp.*
+
+# Qt
+/.qmake.cache
+/.qmake.stash
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.moc
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+Makefile*
+*-build-*
+*.autosave
+*.qmlproject.user
+*.qmlproject.user.*
+
+# KDE directory preferences
+.directory
+
+# OSX config files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# OSX thumbnail cache
+._*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Windows folder config file
+Desktop.ini
+
+# Windows shortcuts
+*.lnk
+
